@@ -1,2 +1,2 @@
 # spotify-
-this is the demo of spotify only front end
+this is the demo of spotify only front end.
